@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/grjrgurjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="grjrgurjar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yogesh-gurjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogesh-gurjar" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/zzzhacker/code?scroll=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zzzhacker/code?scroll=true" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/zzzhacker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zzzhacker/code?scroll=true" height="30" width="40" /></a>
 <a href="https://medium.com/@yogesh.grjr4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yogesh.grjr4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zzzhacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zzzhacker" height="30" width="40" /></a>
 </p>
